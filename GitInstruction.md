@@ -35,7 +35,7 @@ git config --global user.email johndoe@example.com
 
 ## Ветки. Локальная работа с ветками в git.
  git branch _branch_Name_ - создает новую ветку
- git checkout _branch_Name_  - прехрд на новую или уже созданную ветку
+ git checkout _branch_Name_  - переход на новую или уже созданную ветку
 
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
@@ -62,4 +62,6 @@ git config --global user.email johndoe@example.com
 # Система одновременных версий (CVS)
 
 # Apache Subversion (SVN)
+
+
 
