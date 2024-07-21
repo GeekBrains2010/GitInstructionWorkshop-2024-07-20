@@ -23,6 +23,8 @@ Alternatively, you can also download a Zip archive, extract it and run Code from
 Tip: Setup will add Visual Studio Code to your %PATH%, so from the console you can type 'code .' to open VS Code on that folder. You will need to restart your console after the installation for the change to the %PATH% environmental variable to take effect.
 
 ### Установка git на ваш ПК
+Для системы Windows:
+Переходим на официальный сайт Git, в раздел загрузок. Мы увидим несколько вариантов установки: разные разрядности, портативная версия и даже установка из исходников. Мы выберем Standalone-версию, для этого проще всего нажать ссылку Click here to download, она всегда ведет на самую актуальную версию. Запускаем скачанный файл.
 
 #### Первая настройка git
 Необходимо ввести команды:
